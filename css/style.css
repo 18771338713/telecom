@@ -1,0 +1,69 @@
+@charset "UTF-8";
+.container{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    width: 100%;
+    height: 2.173913rem;
+    line-height: 2.173913rem;
+    background: #F7F7F7;
+    border-bottom:0.043478rem solid #E5E5E5;
+}
+.header>div{
+    float:left;
+}
+.header-div1{
+   margin:8px 20px;
+   width: 1.521739rem;
+   height: 1.521739rem;
+   cursor:pointer;
+}
+.header-div1>img{
+    width: 100%;
+    height: 100%;
+}
+.header-div2{
+    width:70%;
+    font-size: 0.869565rem;
+    text-align: center;
+}
+.center{
+    width: 100%;
+}
+.center-banner{
+    margin-top:5.217391rem;
+    width: 10.869565rem;
+    height: 8.695652rem;
+}
+.center-banner>img{
+    width: 100%;
+    height: 100%;
+}
+.center-text{
+    margin-top:5.217391rem;
+}
+.center-textNamber{
+    font-size:0.956522rem;
+    color:#222; 
+}
+.center-textText{
+    margin-top:0.869565rem;
+    color:#858585;
+    font-size: 0.956522rem;
+}
+.progress-background{
+    margin-top:0.869565rem;
+    width:17.391304rem;
+    height:0.869565rem;
+    background:#ecf0f3;
+    border-radius:1.304348rem;
+    overflow: hidden;
+}
+.progress-background>div{
+    float:left;
+    width: 0rem;
+    height:0.869565rem;
+    border-radius:1.304348rem;
+    background: #7ed321;
+}

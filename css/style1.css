@@ -1,0 +1,127 @@
+.container{
+  width: 100%;
+  height: 100%;
+}
+.header{
+  width: 100%;
+  height: 2.173913rem;
+  line-height: 2.173913rem;
+  background: #F7F7F7;
+  border-bottom:0.043478rem solid #E5E5E5;
+}
+.header>div{
+    float:left;
+}
+.header-div1{
+  margin:8px 20px;
+  width: 1.521739rem;
+  height: 1.521739rem;
+  cursor:pointer;
+}
+.header-div1>img{
+  width: 100%;
+  height: 100%;
+}
+.header-div2{
+  width:65%;
+  font-size: 0.869565rem;
+  text-align: center;
+}
+.header-div3{
+  float:right;
+  width: 10%;
+  font-size: 0.869565rem;
+}
+.center{
+  width: 100%;
+  overflow: hidden;
+  background: #1199ff;
+}
+.center-div1{
+  margin-top:2.173913rem;
+  width:12.347826rem;
+  height:9.565217rem;
+}
+.center-div1>img{
+  width: 100%;
+  height: 100%;
+}
+.center-div2{
+  margin-top:1.304348rem;
+  width: 13.913043rem;
+  height:2.869565rem;
+  line-height: 2.869565rem;
+  color:#d3e8fd;
+  font-size:0.956522rem;
+  background: #62b0ff;
+  border:2px solid #81bfff;
+  border-radius:1.73913rem;
+}
+.center-div3{
+  margin-top:0.434783rem;
+  margin-bottom:0.869565rem;
+  color:#8fccff;
+  font-size: 0.869565rem;
+}
+.extend{
+  width: 100%;
+}
+.extend>ul>li{
+  width: 100%;
+  height:3.043478rem;
+  border-bottom:0.043478rem solid #dcdcdc;
+}
+.extend-div1{
+  float:left;
+  width: 1.304348rem;
+  height:1.304348rem;
+  margin:0.652174rem 0.869565rem;
+}
+.extend-div1>img{
+  width: 100%;
+  height: 100%;
+}
+.extend-div2{
+  margin:0.869565rem 0.869565rem;
+  float:left;
+}
+.extend-div3{
+  margin:0.869565rem 0.869565rem;
+  float:right;
+  text-align: center;
+ 
+}
+.extend-div3>span{
+  float:left;
+  width: 2.956522rem;
+  height:1.304348rem;
+  line-height: 1.304348rem;
+  border:1px solid red;
+  border-radius: 0.869565rem;
+  color:#ef4e4e;
+  margin-right:0.434783rem;
+}
+.extend-div3>img{
+  width: 1.304348rem;
+  height:1.304348rem;
+}
+.extend-div4{
+  margin:0.869565rem 1.304348rem;
+  float:right;
+  width: 3.043478rem;
+  height:1.086957rem;
+  border-radius: 1.304348rem;
+  background: #C6C5C5;
+  position: relative;
+  transition:all 1s;
+}
+.extend-div5{
+  position: absolute;
+  transition:all 1s;
+  top:-0.217391rem;
+  left:0rem;
+  width:1.521739rem;
+  height: 1.521739rem;
+  border-radius: 1.521739rem;
+  background: #F1F1F1;
+}
