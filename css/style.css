@@ -30,9 +30,10 @@
 }
 .center{
     width: 100%;
+    text-align:center;
 }
 .center-banner{
-    margin-top:5.217391rem;
+    margin:5.217391rem auto;
     width: 10.869565rem;
     height: 8.695652rem;
 }
@@ -53,7 +54,7 @@
     font-size: 0.956522rem;
 }
 .progress-background{
-    margin-top:0.869565rem;
+    margin:0.869565rem auto;
     width:17.391304rem;
     height:0.869565rem;
     background:#ecf0f3;

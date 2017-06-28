@@ -38,7 +38,7 @@
   background: #1199ff;
 }
 .center-div1{
-  margin-top:2.173913rem;
+  margin:2.173913rem auto;
   width:12.347826rem;
   height:9.565217rem;
 }
@@ -47,7 +47,8 @@
   height: 100%;
 }
 .center-div2{
-  margin-top:1.304348rem;
+  text-align:center;
+  margin:1.304348rem auto;
   width: 13.913043rem;
   height:2.869565rem;
   line-height: 2.869565rem;
@@ -59,6 +60,7 @@
 }
 .center-div3{
   margin-top:0.434783rem;
+  text-align: center;
   margin-bottom:0.869565rem;
   color:#8fccff;
   font-size: 0.869565rem;
@@ -96,7 +98,7 @@
   width: 2.956522rem;
   height:1.304348rem;
   line-height: 1.304348rem;
-  border:1px solid red;
+  border:0.043478rem  solid red;
   border-radius: 0.869565rem;
   color:#ef4e4e;
   margin-right:0.434783rem;
